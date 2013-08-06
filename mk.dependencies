@@ -1,10 +1,10 @@
 [
   {
-    "repository": "MoKee/android_vendor_htc_m7ul",
+    "repository": "android_vendor_htc_m7ul",
     "target_path": "vendor/htc/m7ul"
   },
   {
-    "repository": "MoKee/android_kernel_htc_m7",
+    "repository": "android_kernel_htc_m7",
     "target_path": "kernel/htc/m7"
   }
 ]
