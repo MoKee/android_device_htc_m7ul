@@ -12,8 +12,8 @@
     "target_path": "vendor/htc/m7-common"
   },
   {
-    "repository": "android_vendor_htc_m7-gsm",
-    "target_path": "vendor/htc/m7-gsm"
+    "repository": "android_vendor_htc_m7",
+    "target_path": "vendor/htc/m7"
   },
   {
     "repository": "android_kernel_htc_m7",
